@@ -1,0 +1,779 @@
+ Il volume nell'unit… C Š Windows
+ Numero di serie del volume: 44E6-F8DC
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI
+
+08/12/2020  19:29    <DIR>          .
+08/12/2020  19:29    <DIR>          ..
+28/11/2020  13:59                66 .gitattributes
+08/12/2020  19:27            30.354 DIRECTORY-------------------------------------.TXT
+28/11/2020  14:01    <DIR>          GESTIONE_LLPP
+08/12/2020  19:29             6.362 Zip_rar_C.bat
+08/12/2020  19:29                 0 zip__________________________________________________________________________ZZ.txt
+               4 File         36.782 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git
+
+08/12/2020  19:25                 4 COMMIT_EDITMSG
+28/11/2020  14:00               303 config
+28/11/2020  13:59                38 description
+08/12/2020  19:25               100 FETCH_HEAD
+28/11/2020  13:59                21 HEAD
+28/11/2020  13:59    <DIR>          hooks
+08/12/2020  19:25             2.067 index
+28/11/2020  13:59    <DIR>          info
+28/11/2020  14:00    <DIR>          logs
+08/12/2020  19:25    <DIR>          objects
+08/12/2020  19:18                41 ORIG_HEAD
+28/11/2020  14:00    <DIR>          refs
+               7 File          2.574 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\hooks
+
+28/11/2020  13:59    <DIR>          .
+28/11/2020  13:59    <DIR>          ..
+28/11/2020  13:59               478 applypatch-msg.sample
+28/11/2020  13:59               896 commit-msg.sample
+28/11/2020  13:59             4.655 fsmonitor-watchman.sample
+28/11/2020  13:59               189 post-update.sample
+28/11/2020  13:59               424 pre-applypatch.sample
+28/11/2020  13:59             1.643 pre-commit.sample
+28/11/2020  13:59               416 pre-merge-commit.sample
+28/11/2020  13:59             1.348 pre-push.sample
+28/11/2020  13:59             4.898 pre-rebase.sample
+28/11/2020  13:59               544 pre-receive.sample
+28/11/2020  13:59             1.492 prepare-commit-msg.sample
+28/11/2020  13:59             3.635 update.sample
+              12 File         20.618 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\info
+
+28/11/2020  13:59    <DIR>          .
+28/11/2020  13:59    <DIR>          ..
+28/11/2020  13:59               240 exclude
+               1 File            240 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\logs
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+08/12/2020  19:25             1.430 HEAD
+28/11/2020  14:00    <DIR>          refs
+               1 File          1.430 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\logs\refs
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+28/11/2020  14:00    <DIR>          heads
+28/11/2020  14:00    <DIR>          remotes
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\logs\refs\heads
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+08/12/2020  19:25             1.430 main
+               1 File          1.430 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\logs\refs\remotes
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+28/11/2020  14:00    <DIR>          origin
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\logs\refs\remotes\origin
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+08/12/2020  19:25             1.263 main
+               1 File          1.263 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+28/11/2020  16:43    <DIR>          02
+28/11/2020  16:43    <DIR>          03
+08/12/2020  19:25    <DIR>          07
+28/11/2020  16:43    <DIR>          0d
+28/11/2020  14:09    <DIR>          12
+01/12/2020  23:06    <DIR>          14
+04/12/2020  15:33    <DIR>          16
+01/12/2020  23:06    <DIR>          1a
+06/12/2020  22:46    <DIR>          1b
+04/12/2020  15:33    <DIR>          20
+06/12/2020  22:46    <DIR>          21
+01/12/2020  23:06    <DIR>          23
+06/12/2020  22:46    <DIR>          27
+08/12/2020  17:33    <DIR>          2b
+08/12/2020  19:25    <DIR>          2d
+28/11/2020  14:09    <DIR>          32
+01/12/2020  23:06    <DIR>          39
+08/12/2020  17:33    <DIR>          3e
+04/12/2020  15:33    <DIR>          4d
+28/11/2020  16:43    <DIR>          55
+08/12/2020  19:25    <DIR>          56
+01/12/2020  23:06    <DIR>          5a
+28/11/2020  14:09    <DIR>          5c
+08/12/2020  17:33    <DIR>          60
+04/12/2020  15:33    <DIR>          62
+28/11/2020  14:09    <DIR>          63
+01/12/2020  23:06    <DIR>          6c
+28/11/2020  14:00    <DIR>          6f
+04/12/2020  15:33    <DIR>          71
+01/12/2020  23:06    <DIR>          73
+28/11/2020  14:09    <DIR>          74
+08/12/2020  17:33    <DIR>          7e
+28/11/2020  16:43    <DIR>          80
+06/12/2020  22:46    <DIR>          82
+28/11/2020  14:09    <DIR>          84
+08/12/2020  17:33    <DIR>          86
+08/12/2020  17:33    <DIR>          87
+28/11/2020  16:43    <DIR>          8b
+28/11/2020  14:09    <DIR>          8c
+28/11/2020  16:43    <DIR>          8f
+08/12/2020  17:33    <DIR>          90
+28/11/2020  16:43    <DIR>          94
+04/12/2020  15:33    <DIR>          9b
+01/12/2020  23:06    <DIR>          9d
+08/12/2020  17:33    <DIR>          a3
+04/12/2020  15:33    <DIR>          a7
+01/12/2020  23:06    <DIR>          a8
+06/12/2020  22:46    <DIR>          ab
+08/12/2020  17:33    <DIR>          ae
+28/11/2020  16:43    <DIR>          ba
+08/12/2020  17:33    <DIR>          be
+28/11/2020  16:43    <DIR>          c0
+01/12/2020  23:06    <DIR>          c4
+08/12/2020  17:33    <DIR>          c6
+08/12/2020  19:25    <DIR>          cd
+06/12/2020  22:46    <DIR>          d9
+28/11/2020  13:59    <DIR>          df
+28/11/2020  16:43    <DIR>          e1
+28/11/2020  16:43    <DIR>          e5
+28/11/2020  14:00    <DIR>          ea
+08/12/2020  17:33    <DIR>          eb
+08/12/2020  19:25    <DIR>          ec
+28/11/2020  16:43    <DIR>          ed
+06/12/2020  22:46    <DIR>          f0
+06/12/2020  22:46    <DIR>          f9
+28/11/2020  13:59    <DIR>          info
+28/11/2020  13:59    <DIR>          pack
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\02
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                80 c919fe33574d50e48c7f3975a2df97ce47c0b1
+               1 File             80 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\03
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                72 8b513c3a78cbc1ee45ca55b0c70e3bdac18115
+               1 File             72 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\07
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25                59 0e89d7f2da6e78ead2b64c16cad9bfc1c5f440
+               1 File             59 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\0d
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43            24.292 fa7607b184c720667fea0171a4609b704b3119
+               1 File         24.292 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\12
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09            22.503 a5e9fcb3d59750b8b95071f0a6a7c7cbe94e36
+               1 File         22.503 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\14
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06                58 253b9407202f99eec62927d91c89540ce7368c
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\16
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+04/12/2020  15:33                58 fd0331a168fe43fecb00100cad4d864d3e50b1
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\1a
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06            23.437 0a2ccf234020845fbbc6299a50e3f3104e9940
+               1 File         23.437 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\1b
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46                99 0bd4ef502f7b960b3fb762b619a4d97d35c7b1
+               1 File             99 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\20
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+04/12/2020  15:33                58 01c89b5f2259376591215f77e308c9d970a10d
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\21
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46         3.047.200 0ec3e95d81380f8096c78a041664c054268ae9
+               1 File      3.047.200 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\23
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06                58 1a4f813cfea514d244de4784b68c3494aa561f
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\27
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46                58 6ba0f01417014cdfe8944ea040bb79daf7494d
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\2b
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33                77 26973b438a7db456f795f0d14a6263b90c5113
+               1 File             77 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\2d
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25               332 cc6522bfd31c5022c98fdfe35a16eaabc2c9f6
+               1 File            332 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\32
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09                76 796bc8b681adbbb8573fbed3aa5d32f1d10937
+               1 File             76 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\39
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06                98 da95d0492bbf816ed124f854743b2a0730c1ba
+               1 File             98 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\3e
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33           243.528 45bb646133e8c5fc3a655d32b3be45a5e66a5f
+               1 File        243.528 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\4d
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+28/11/2020  16:43                73 c6c3d9afb16a9779b6e46ff0399d5546c2414b
+04/12/2020  15:33         2.223.590 d05fff02563f817b25ffabb98d020f9a93b8aa
+               2 File      2.223.663 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\55
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43            23.842 6877e6cd5f9d96caa2ae91be2035c9d53cf2af
+               1 File         23.842 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\56
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25                59 3563666a2b5eb38779af0379bb87fd4c098549
+28/11/2020  16:43           408.675 db4feedb17eea0bbc1a00e525eec269015e488
+               2 File        408.734 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\5a
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06               333 1407fafb941c05add7710c0adf98c66d1a6810
+               1 File            333 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\5c
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09                55 44eefa88f5fb19ac518e585cf4de78ce3d8e2e
+               1 File             55 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\60
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33               175 73c3ae89383d9183920d883f113155cf13514a
+               1 File            175 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\62
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+04/12/2020  15:33               174 900dc60d680547e0528b51214dba4563240e78
+               1 File            174 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\63
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09                58 4d53ba2170698ccda77f217607653fa9b64843
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\6c
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+28/11/2020  16:43               175 1f87e142c6457cfcc85c710e05942804158bde
+01/12/2020  23:06                77 300fad83ce53b2d901eea5f31c1453a6114c80
+               2 File            252 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\6f
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+28/11/2020  14:00                59 9509c88bed7080d496fc5e1d87a9315e30549d
+               1 File             59 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\71
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+04/12/2020  15:33                80 7acab04535fc162abbb849ff3c3cb2e23df214
+28/11/2020  16:43                98 db6c9706d879e5c10cf26e0471bfb304f53c72
+               2 File            178 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\73
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06         2.211.937 7cd9b9ea437bb04e5429886e46188230885bc5
+               1 File      2.211.937 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\74
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09               174 7d0ce92cd2439b4d4faf1dc7ee4f0da08c08d6
+               1 File            174 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\7e
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33         9.022.927 8cdc81456762eaacab567effbf921ded34b863
+               1 File      9.022.927 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\80
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                73 d708ac6cc29e467a0fa70426e3b127dfa9b706
+               1 File             73 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\82
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46            37.034 2bb49c809e5776ee8e70c2b449959f3bec0c91
+               1 File         37.034 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\84
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09                58 d81cddf81f2807a657ce58e0f3098343da64a6
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\86
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33                58 0b2b2f0a62dc2814b9c6c0fa7374a0f05ff678
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\87
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33               535 cf1dba70d966b96f3a23f9707b31d7cf96cf77
+               1 File            535 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\8b
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                76 3c62033b42ad9d279704ee240e76c2e60ee0b6
+               1 File             76 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\8c
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09                98 14539a38a7c0f0e06d15aaa9351509c6ae7220
+               1 File             98 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\8f
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43            25.523 1a9d3775aa7f122f1c4c16be4c9146262d3791
+               1 File         25.523 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\90
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33         2.403.103 df0a54822609fe714845f9ba17fbc4602bd306
+               1 File      2.403.103 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\94
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43         2.189.826 64a5e8e01607c405f2e7328b698138e93c7658
+               1 File      2.189.826 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\9b
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+04/12/2020  15:33                98 a72327b48d3c0830ffbb57bf3438868fdb79eb
+01/12/2020  23:06               177 f3d749d778332f6a1cfa1f32947db5224054ea
+               2 File            275 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\9d
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06                71 9a04eeaaa918906dbbc77f9f32f073bc4590cb
+               1 File             71 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\a3
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33                98 cc3c8596859335ca74d508889617dd50404643
+               1 File             98 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\a7
+
+04/12/2020  15:33    <DIR>          .
+04/12/2020  15:33    <DIR>          ..
+04/12/2020  15:33               333 3a9936d438aad083dc66609339b436e45876f9
+               1 File            333 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\a8
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06         3.078.121 53fd6515c288cc6e0dc9be478252f00af7a847
+               1 File      3.078.121 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\ab
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46                58 02154e205e4940d844a0c4ca8c12b7707f52ec
+28/11/2020  16:43                71 2389f7d68867c08abf0400c7d807805d71d8f8
+               2 File            129 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\ae
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33         6.224.181 1e3328c37c96dacdd53ee28a4fadd3fca73d4e
+               1 File      6.224.181 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\ba
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                58 09d35a662d9f79df6a9bb66a7b2815e65ff534
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\be
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33         2.433.424 e0fd1367b65f5527213ae8dd055e63f73a5eac
+08/12/2020  17:33            79.460 f8f7e7836a1c31e8d9c1742a95a2a06d7db4d4
+               2 File      2.512.884 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\c0
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43           127.458 c791f78959a7b31cdfb2fd9b0a44b237fcfca3
+               1 File        127.458 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\c4
+
+01/12/2020  23:06    <DIR>          .
+01/12/2020  23:06    <DIR>          ..
+01/12/2020  23:06                79 e6c594b932ab83afb90f4a0126ff34b070890c
+               1 File             79 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\c6
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+08/12/2020  17:33            67.088 e75d03c7247d76ee6cf5e6d9eeead2920ed8bc
+               1 File         67.088 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\cd
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25               178 1ca24419fbb1e70e4e61c0d8aaf6d14cb6fe7c
+               1 File            178 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\d9
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46                71 4d299a2a3e2f9a8193e15a1d3df72f3f20dab9
+               1 File             71 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\df
+
+28/11/2020  13:59    <DIR>          .
+28/11/2020  13:59    <DIR>          ..
+28/11/2020  13:59                76 e0770424b2a19faf507a501ebfc23be8f54e7b
+               1 File             76 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\e1
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                58 41b2aae4bb574386807b59dee016176338a342
+               1 File             58 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\e5
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43         3.297.819 228792c04e659a7f35463a146e386f2f6e066b
+28/11/2020  16:43               301 2c9c6823507826b4153097eeab671d2dc79c7a
+               2 File      3.298.120 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\ea
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+28/11/2020  14:00               150 875e84a39ea58842a25a5f33ac3f0656ff0df3
+               1 File            150 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\eb
+
+08/12/2020  17:33    <DIR>          .
+08/12/2020  17:33    <DIR>          ..
+06/12/2020  22:46               175 59601f4cc86c9246531d748b85cbfcb33e4be5
+08/12/2020  17:33                58 66f5296464f0422c39a14e1c5ad74b0a569c17
+               2 File            233 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\ec
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25                98 c082898222574679085d4b54d36b46b62a5cb6
+               1 File             98 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\ed
+
+28/11/2020  16:43    <DIR>          .
+28/11/2020  16:43    <DIR>          ..
+28/11/2020  16:43                71 8de7295566dcccaa0a82878b47c569047fb26d
+               1 File             71 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\f0
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46                76 003d47bd26eaecb67825e081a1777ee82b893f
+               1 File             76 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\f9
+
+06/12/2020  22:46    <DIR>          .
+06/12/2020  22:46    <DIR>          ..
+06/12/2020  22:46               333 e817d517e9abc0b555b3d87a14da8785815c0c
+               1 File            333 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\info
+
+28/11/2020  13:59    <DIR>          .
+28/11/2020  13:59    <DIR>          ..
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\objects\pack
+
+28/11/2020  13:59    <DIR>          .
+28/11/2020  13:59    <DIR>          ..
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\refs
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+08/12/2020  19:25    <DIR>          heads
+28/11/2020  14:00    <DIR>          remotes
+28/11/2020  13:59    <DIR>          tags
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\refs\heads
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25                41 main
+               1 File             41 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\refs\remotes
+
+28/11/2020  14:00    <DIR>          .
+28/11/2020  14:00    <DIR>          ..
+08/12/2020  19:25    <DIR>          origin
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\refs\remotes\origin
+
+08/12/2020  19:25    <DIR>          .
+08/12/2020  19:25    <DIR>          ..
+08/12/2020  19:25                41 main
+               1 File             41 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\.git\refs\tags
+
+28/11/2020  13:59    <DIR>          .
+28/11/2020  13:59    <DIR>          ..
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP
+
+28/11/2020  14:01    <DIR>          .
+28/11/2020  14:01    <DIR>          ..
+28/11/2020  14:01    <DIR>          25_GESTIONE_LLPP
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP
+
+28/11/2020  14:01    <DIR>          .
+28/11/2020  14:01    <DIR>          ..
+08/12/2020  19:19    <DIR>          LLPP_ARCHIVI_MDB
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB
+
+08/12/2020  19:19    <DIR>          .
+08/12/2020  19:19    <DIR>          ..
+08/12/2020  19:18    <DIR>          AA_GESTIONE_ATTI
+01/12/2020  23:05    <DIR>          AA_MODELLO
+28/11/2020  16:41    <DIR>          ALLEGATI_GESTIONE
+28/11/2020  16:37    <DIR>          BILANCIO_GESTIONE
+28/11/2020  16:32    <DIR>          CASSA_DDPP_GESTIONE
+28/11/2020  16:29    <DIR>          CIVILIA_GESTIONE
+28/11/2020  16:28    <DIR>          DIRIGENTI
+28/11/2020  16:25    <DIR>          IMPEGNI_DI_SPESA
+28/11/2020  14:09    <DIR>          OGGETTO_PROGETTO
+28/11/2020  16:25    <DIR>          PLUS_UFFICIO
+               0 File              0 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\AA_GESTIONE_ATTI
+
+08/12/2020  19:18    <DIR>          .
+08/12/2020  19:18    <DIR>          ..
+08/12/2020  19:18         2.474.528 ZIP_GESTIONE_ATTI_SALVATAGGI.RAR
+               1 File      2.474.528 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\AA_MODELLO
+
+01/12/2020  23:05    <DIR>          .
+01/12/2020  23:05    <DIR>          ..
+06/12/2020  22:46            41.068 ZIP_MODELLO_SALVATAGGI.RAR
+               1 File         41.068 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\ALLEGATI_GESTIONE
+
+28/11/2020  16:41    <DIR>          .
+28/11/2020  16:41    <DIR>          ..
+28/11/2020  16:41           411.508 ZIP_ALLEGATI_SALVATAGGI.RAR
+               1 File        411.508 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\BILANCIO_GESTIONE
+
+28/11/2020  16:37    <DIR>          .
+28/11/2020  16:37    <DIR>          ..
+28/11/2020  16:37            28.485 ZIP_BILANCIO_SALVATAGGI.RAR
+               1 File         28.485 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\CASSA_DDPP_GESTIONE
+
+28/11/2020  16:32    <DIR>          .
+28/11/2020  16:32    <DIR>          ..
+28/11/2020  16:32            26.656 ZIP_CASSA_DDPP_SALVATAGGI.RAR
+               1 File         26.656 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\CIVILIA_GESTIONE
+
+28/11/2020  16:29    <DIR>          .
+28/11/2020  16:29    <DIR>          ..
+28/11/2020  16:29            25.793 ZIP_CIVILIA_SALVATAGGI.RAR
+               1 File         25.793 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\DIRIGENTI
+
+28/11/2020  16:28    <DIR>          .
+28/11/2020  16:28    <DIR>          ..
+28/11/2020  16:28           128.006 ZIP_DIRIGENTI_SALVATAGGI.RAR
+               1 File        128.006 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\IMPEGNI_DI_SPESA
+
+28/11/2020  16:25    <DIR>          .
+28/11/2020  16:25    <DIR>          ..
+03/12/2020  22:18         2.256.492 ZIP_IMPEGNI_DI_SPESA_SALVATAGGI.RAR
+               1 File      2.256.492 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\OGGETTO_PROGETTO
+
+28/11/2020  14:09    <DIR>          .
+28/11/2020  14:09    <DIR>          ..
+28/11/2020  14:09            24.360 ZIP_OGGETTO_PROGETTO_SALVATAGGI.RAR
+               1 File         24.360 byte
+
+ Directory di C:\CASA\PROGRAMMI\GITHUB\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\PLUS_UFFICIO
+
+28/11/2020  16:25    <DIR>          .
+28/11/2020  16:25    <DIR>          ..
+               0 File              0 byte
+
+     Totale file elencati:
+             112 File     42.702.642 byte
+             281 Directory  42.420.531.200 byte disponibili
