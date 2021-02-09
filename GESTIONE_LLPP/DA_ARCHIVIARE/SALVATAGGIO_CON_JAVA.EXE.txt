@@ -1,0 +1,72 @@
+PATH:c:\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\ZZ_ESEGUI_EXE\
+
+
+
+
+
+
+
+01)
+PROCEDURA CON JAVA.EXE CON CICLO FOR
+
+
+
+    '//2021_02_05= nuova procedura
+    '//APRO_FILE_O_PATH = modello di procedura di apertura CON CICLO FOR E MATRICI
+    '//---------------------------------------------------------------------------------------//
+    '//CODICE -----------> APRO_FILE_O_PATH_N01_pSub.01.01 _
+
+             '//File da ricercare e la path ANALISI DELLA FORM GESTIONE PRINCIPALE _
+                imposto le matrici per ora a 10 variabili per l'eventuale apertura di più file.
+            Dim MyFile_s(3) As String
+            Dim MyPath_s(3) As String
+            Dim icount As Integer
+ 
+       '//APRO tutto con la procedura .bat impostando la path ed i file ed il contatore icount attenzione l'indice è zero.
+        icount = 3
+        MyFile_s(1) = "SCHEMA_OGGETTO.txt"
+        MyPath_s(1) = "c:\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\GESTIONE_FORM_PRINCIPALE\GESTIONE_FORM_PRINCIPALE_TEXT_ANALISI\"
+                 
+       MyFile_s(2) = ""
+       MyPath_s(2) = "c:\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\GESTIONE_FORM_PRINCIPALE\GESTIONE_FORM_PRINCIPALE_TEXT_ANALISI\"
+                        
+        '//ciclo for per le chiamate ATTENZIONE ALL'INDICE 0
+        For icount = 1 To 2 Step 1
+        
+           '// attivo la routine solo se la path è valorizzata, in questo modo possa anche avere un contatore maggiore _
+                rispetto alla matrice ma non sara attivata la chiamata. es. icontu = 5 ma le variabili impostata fino a 2 e senza _
+                considerare l'indice zero, in questo modo non va fuori indice.
+            If MyPath_s(icount) > "" Then
+                '//attivo solo le chiamate dentro l'indice con la path valorizzata
+                APRO_FILE_O_PATH_N01_pSub MyPath_s(icount), MyFile_s(icount)
+            End If
+           
+        Next icount
+    '//---------------------------------------------------------------------------------------//
+    
+    
+    
+02)    
+PROCEDURA APERTURA FILE CON JAVA.EXE SENZA FOR
+
+ '//---> button:cdm-tutto.01 _
+    APRO tutto con la procedura .bat
+    MyFile_s = "APRI_GESTIONE_FORM_PRINCIPALE_(caricaDiscoEsterno).bat"
+    MyPath_s = "c:\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\GESTIONE_FORM_PRINCIPALE\GESTIONE_FORM_PRINCIPALE_BAT\"
+   
+   
+   
+    '//2021_02_05= nuova procedura
+       '//APRO_FILE_O_PATH = modello di procedura di apertura
+       '//---------------------------------------------------------------------------------------//
+       '//CODICE -----------> APRO_FILE_O_PATH_N01_pSub.01.01 _
+   
+           'PATH_s = "c:\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\IMPRESE_E_PROFESSIONISTI\IMPRESE_E_PROFESSIONISTI_BAT\"
+           'File_s = "MODELLO_BAT_START_AproFile1+2+3+directory.bat"
+   
+   
+               '// attivo la routine _
+   
+               APRO_FILE_O_PATH_N01_pSub MyPath_s, MyFile_s
+       '//---------------------------------------------------------------------------------------//
+       
