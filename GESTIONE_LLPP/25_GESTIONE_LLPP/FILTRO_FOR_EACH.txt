@@ -1,0 +1,79 @@
+
+      
+ 
+                                '//TODO: FILTRO CON SOTTOFORM
+                                '//IMPOSTA IL FILTRO CON L'ITERAZIONE OGGETTI FORMS
+                                '//=======================================================================================================================//
+                                Dim frm As Form
+                                Dim ctl As Control
+    
+                                Set Dbs = Application.CurrentProject
+                                ' Search for open AccessObject objects in AllForms collection.
+                                'For Each OBJ In Dbs.AllForms
+                                '// creo oggetto form con riferimento DIRETTO alla form in questione, per fare riferimento _
+                                alla form specifica usare il nome.
+                                Set frm = Me.SottForm_Pg_01.Form
+                                
+                                ' Elenca insieme Controls.
+                                For Each ctl In frm.Controls
+                                ' Verifica se il controllo è una casella di testo.
+                                Debug.Print
+                                Debug.Print Vv1
+                                
+                                
+                                
+                                '// LE SOTTOFORM
+                                '// acTextBox = 112 è una sottoform
+                                '//-------------------------------------------------------------------------//
+                                    
+                                     If ctl.ControlType = acSubform Then
+                                             With ctl
+        
+                                                 '//OGGETTO sottoform
+                                                 Debug.Print
+                                                 Debug.Print "   LA SOTTOFORM"
+                                                 Debug.Print "......................................."
+                                                     Debug.Print " La sottoform"
+                                                     
+                                                    '//SE TROVO LA SOTTOFORM_02 attivo il filtro
+                                                    '//--------------------------------------------------------//
+                                                        If .ControlName = "LLPP_ATTI_FrmS12_Gestione_Elenco" Then
+                                                            Debug.Print
+                                                            Debug.Print " TROVATO LA SOTTOFORM"
+                                                            Debug.Print " .ControlType      ---------> " & .ControlType
+                                                            Debug.Print " .ControlName      ---------> " & .ControlName
+                                                            
+                                                            'individuo il l'indice del controllo e stampo il nome dell'oggetto
+                                                           Debug.Print "indice del controllo ctl.TabIndex ---"; ctl.TabIndex
+                                                           Debug.Print Me.Form(2).Name
+                                                            
+                                                                
+                                                                Debug.Print Me.SottForm_Pg_02.Name
+                                                                Debug.Print Me.SottForm_Pg_02.SourceObject
+                                                                Debug.Print Me.SottForm_Pg_02.Form.Filter
+                                                                '//attivo il filtro costruito sulla query sottostante la sottoform
+                                                                Me.SottForm_Pg_02.Form.Filter = sSql
+                                                                    Me.SottForm_Pg_02.Form.FilterOn = True
+                                                                        'Me.SottForm_Pg_02.Form.Requery
+
+                                                                
+                                                        End If
+
+                                                    '//--------------------------------------------------------//
+                                        
+                                                        
+                                
+                                                 Debug.Print
+                                                 Debug.Print "......................................."
+                                
+                                             End With
+                                     End If
+                                '//-------------------------------------------------------------------------//
+                                
+                                Next ctl
+                                
+                            '//IMPOSTA IL FILTRO CON L'ITERAZIONE OGGETTI FORMS *** FINE ***
+                            '//=======================================================================================================================//
+
+     
+      
